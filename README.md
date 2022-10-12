@@ -44,6 +44,4 @@ Contendo todas as variações que você adcionar no arquivo de configuração do
 
 #### como entrar no storybook:
 
-<img src="runStorybook.png" width="600px" align="center" alt="logo ignite">
-=======
->>>>>>> 60a327d6b00d41d6d373f79c89c997ee88e3f506
+<img src="https://raw.githubusercontent.com/eramoss/Design-System/main/public/runStorybook.png" width="600px" align="center" alt="sTORYBOOK TUTORIAL">
