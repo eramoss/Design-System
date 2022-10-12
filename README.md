@@ -32,14 +32,14 @@ Dentro dele a gente define fontes, cores e até bordas usadas, desde o primeiro 
 você criou um component do React ou Vue ou qualquer framework que trabalhe com tais </br>
 Normalmente esses components possuem variações, como: hover; focus; active; etc. </br>
 </br>
-você não iris querer fazer cada variação manualmente pra documentar cada componente da sua aplicação </br>
+você não iria querer fazer cada variação manualmente pra documentar cada componente da sua aplicação </br>
 Aí que entra o storybook. Ele cria para você STORIES que você pode verificar com uma interface </br>
 Contendo todas as variações que você adcionar no arquivo de configuração do component para o Storybook
 
  <a href="https://storybook.js.org" alt="Storybook">
     <img src="https://img.shields.io/badge/-📕Storybook-%23d42a08"/>
   </a>
-<<<<<<< HEAD
+
 
 
 #### como entrar no storybook:
