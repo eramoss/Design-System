@@ -21,8 +21,8 @@ Dentro dele a gente define fontes, cores e até bordas usadas, desde o primeiro 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"  width="50px" align="left" >
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"  width="50px" align="left" >
 <img src="https://vitejs.dev/logo-with-shadow.png"  width="50px" align="left" >
-
 </br>
+
 ## oque é e porque usar o storybook:
 
 #### o storybook é uma maneira mais fácil e dinâmica de você documentar seus components, por exemplo: 
