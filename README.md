@@ -22,6 +22,8 @@ Dentro dele a gente define fontes, cores e até bordas usadas, desde o primeiro 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"  width="50px" align="left" >
 <img src="https://vitejs.dev/logo-with-shadow.png"  width="50px" align="left" >
 </br>
+</br>
+</br>
 
 ## oque é e porque usar o storybook:
 
