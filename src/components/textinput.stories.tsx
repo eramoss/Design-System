@@ -32,4 +32,3 @@ export const WithoutIcon: StoryObj<TextInputRootprops>= {
         children:<TextInput.Input placeholder="Type your e-mail address" />
     }
 }
-
