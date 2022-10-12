@@ -15,11 +15,11 @@ Dentro dele a gente define fontes, cores e até bordas usadas, desde o primeiro 
 
 #### Algumas das ferramentas usadas:
 
-<img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png"  width="50px" align="center" >
-<img src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4"  width="50px" align="center" >
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"  width="50px" align="center" >
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"  width="50px" align="center" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"  width="50px" align="center" >
-<img src="https://vitejs.dev/logo-with-shadow.png"  width="50px" align="center" >
+<img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png"  width="50px" align="left" >
+<img src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4"  width="50px" align="left" >
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"  width="50px" align="left" >
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"  width="50px" align="left" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"  width="50px" align="left" >
+<img src="https://vitejs.dev/logo-with-shadow.png"  width="50px" align="left" >
 
-porque usar o storybook
+
