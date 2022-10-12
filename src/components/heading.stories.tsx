@@ -1,19 +1,19 @@
-import { Text , Textprops} from "./Text";
+import { Heading , Headingprops} from "./heading";
 import {Meta, StoryObj} from '@storybook/react'
 
 
 export default {
-    title: 'components/Text',
-    component: Text,
+    title: 'components/Heading',
+    component: Heading,
     args: {
         children: 'lorem'
 
     },
-} as Meta<Textprops>
+} as Meta<Headingprops>
 
-export const Default: StoryObj<Textprops>= {}
+export const Default: StoryObj<Headingprops>= {}
 
-export const Small: StoryObj<Textprops> = {
+export const Small: StoryObj<Headingprops> = {
 
     args: {
         size: 'sm'
@@ -21,7 +21,7 @@ export const Small: StoryObj<Textprops> = {
 
 }
 
-export const Large: StoryObj<Textprops> = {
+export const Large: StoryObj<Headingprops> = {
 
     args: {
         size: 'lg'
@@ -31,14 +31,14 @@ export const Large: StoryObj<Textprops> = {
 }
 
 
-export const CustomComponent: StoryObj<Textprops> = {
+export const CustomComponent: StoryObj<Headingprops> = {
 
     args: {
         asChild: true,
         children: (
-            <p>
+            <h1>
                 testando
-            </p>
+            </h1>
         )
     },
     argTypes:{

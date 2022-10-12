@@ -2,7 +2,7 @@ import './styles/global.css'
 
 export function App() {
   return (
-    <h1 className='font-bold'>Hello world</h1>
+    <h1 className="text-xl">Hello world</h1>
   )
 }
 
