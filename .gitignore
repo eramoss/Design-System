@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 #sotyrbook
-sotyrbook-static
+storybook-static
