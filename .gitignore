@@ -23,5 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 
-#sotyrbook
+# Storybook
 storybook-static
