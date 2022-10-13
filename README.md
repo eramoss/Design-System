@@ -39,11 +39,9 @@ Contendo todas as variações que você adcionar no arquivo de configuração do
  <a href="https://storybook.js.org" alt="Storybook">
     <img src="https://img.shields.io/badge/-📕Storybook-%23d42a08"/>
   </a>
-<<<<<<< HEAD
 
 
 #### como entrar no storybook:
 
 <img src="runStorybook.png" width="600px" align="center" alt="logo ignite">
-=======
->>>>>>> 60a327d6b00d41d6d373f79c89c997ee88e3f506
+
