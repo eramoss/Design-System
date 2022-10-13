@@ -47,14 +47,20 @@ baixe as dependencias do package.json
 
 
 para acessar o Storybook localmente:
-### 'npm run Storybook'
+```console
+$ npm run storybook
+```
 
 para acessar o Storybook on web:
-### 'https://eramoss.github.io/Design-System'
+```console
+https://eramoss.github.io/Design-System
+```
 
 
 para rodar o Vite localmente:
-### 'npm run dev'
+```console
+$ npm run dev
+```
 
 
 
