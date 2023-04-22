@@ -15,7 +15,9 @@ Dentro dele a gente define fontes, cores e até bordas usadas, desde o primeiro 
 
 #### Algumas das ferramentas usadas:
 
+<a href="https://youtube.com"> 
 <img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png"  width="50px" align="left" >
+</a>
 <img src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4"  width="50px" align="left" >
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"  width="50px" align="left" >
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"  width="50px" align="left" >
